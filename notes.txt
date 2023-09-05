@@ -1,0 +1,79 @@
+------------------------js basics
+ === ==
+ hoisting 
+ console.log(x)
+ var x;
+ Callback (MRF)
+ array methods
+ string methods
+ objects :- k,v
+ JSON => 
+ JSON.parse() , JSON.stringify()
+ functions => functions , arrow , iife , anonymous , callback , async functions
+ ES5 vs ES6 => arrow , hositing , let and const , tempate literal , MRF, 
+ for in, for of , for each,spread operator , rest parameter
+ ----------------------------------HTML
+ HTML vs HTML5 
+ audio ,video ,semantic structure ,meta tag 
+ meta tag 
+ doctype
+ a => blank
+ html element 
+attribute 
+canvas
+----------------------------------css
+how many ways  to give css
+selectors => # , . , body 
+position :- absolute , relative ,fixed ,sticky ,static
+body{
+    property: value ;
+}
+circle 
+box model 
+grids (rows and columns)
+flex
+pseduo elements
+display: inline
+display: inline block
+display : none;
+visbility : hidden 
+media queries
+z-index
+overflow
+transform
+:root => var()
+framework: bootstrap (classname)
+advancejs 
+=> callback (latenloupe) => eventloop , call stack ,call queue , webapi
+=> callback hell(pain of callback)
+({
+    {
+        {
+
+        }
+    }
+})
+=> promise
+=> promise states 
+=> .then .catch
+=> promise chaining
+=> promise.all
+=> promise.allsettled
+=> fetch("")
+=>.json()
+=> aync-await
+=> error handling:- try catch
+=> crud
+=>dom 
+=> create
+=> setattribute("","")
+=> innerHTML , innerText
+=> append vs appendchild
+=> get (id ,classname ,tagname)
+=> query selector & queryselectorall
+=> settimeout vs setinterval
+
+
+
+
+
